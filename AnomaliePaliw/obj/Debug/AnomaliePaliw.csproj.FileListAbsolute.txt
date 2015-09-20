@@ -1,0 +1,10 @@
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\bin\Debug\AnomaliePaliw.exe.config
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\bin\Debug\AnomaliePaliw.exe
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\bin\Debug\AnomaliePaliw.pdb
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\obj\Debug\AnomaliePaliw.csprojResolveAssemblyReference.cache
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\obj\Debug\AnomaliePaliw.MainForm.resources
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\obj\Debug\AnomaliePaliw.Properties.Resources.resources
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\obj\Debug\AnomaliePaliw.csproj.GenerateResource.Cache
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\obj\Debug\AnomaliePaliw.exe
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\obj\Debug\AnomaliePaliw.pdb
+D:\Projekty\PZSSGitSource\AnomaliePaliw\AnomaliePaliw\obj\Debug\AnomaliePaliw.Data.resources
